@@ -1,0 +1,11 @@
+{
+    "name": "Yums Yums",
+    "symbol": "YUM",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "-",
+    "website": "https://nomnomsnft.com/",
+    "explorer": "https://etherscan.io/token/0x5A046140d8594369076feec4eE08bD6FEa1Bfe80",
+    "status": "active",
+    "id": "0x5A046140d8594369076feec4eE08bD6FEa1Bfe80"
+}
